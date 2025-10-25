@@ -187,5 +187,6 @@
     "yamljs": "0.3.0",
     "yargs-parser": "21.1.1",
     "zod": "catalog:"
+    "n8n-nodes-imap-community": "latest"
   }
 }
